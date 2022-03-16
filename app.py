@@ -1,11 +1,3 @@
-#pip install virtualenv
-#virtualenv env
-#env\Scripts\activate
-#pip install streamlit
-#streamlit hello --server.port 5998
-#streamlit run app_name.py --server.port 5998
-#https://e7.pngegg.com/pngimages/1020/402/png-clipart-2024-summer-olympics-brand-circle-area-olympic-rings-olympics-logo-text-sport.png
-
 import streamlit as st
 import pandas as pd
 import preprocessing,utility
